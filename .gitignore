@@ -1,0 +1,4 @@
+.ssh/
+.git-credentials
+.config/
+.bash_history
